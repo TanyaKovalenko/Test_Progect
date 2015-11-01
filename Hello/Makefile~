@@ -1,0 +1,3 @@
+all:
+	g++ lab1_1.cpp -o lab1_1
+	g++ lab1_3.cpp -o lab1_3
