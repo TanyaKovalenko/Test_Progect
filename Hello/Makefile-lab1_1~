@@ -1,2 +1,0 @@
-all:
-	g++ lab1_1.cpp -o lab1_1
