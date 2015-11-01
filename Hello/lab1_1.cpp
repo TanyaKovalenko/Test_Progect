@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <iostream>
+#include <stdlib.h>
 
 int main(int argc, char* argv[]) {
 	float a, b, c;
@@ -14,7 +15,7 @@ int main(int argc, char* argv[]) {
 			std::cout << 7 << " " << 13 << " " << 16;	
 		}
 	} else {
-		cout << "Not arguments" << endl;
+		std::cout << "Not arguments" << std::endl;
         }  
     return 0;
 }
